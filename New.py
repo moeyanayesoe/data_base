@@ -1,5 +1,4 @@
-#pylint:disable=E0602
-#pylint:disable=W0104
+
 #----------import------------#
 import os
 #----------colour------------#
